@@ -23,7 +23,7 @@
   <remote  name="private"
            fetch="ssh://git@github.com" />
 
-  <default revision="refs/heads/sokp-kk
+  <default revision="refs/heads/sokp-kk"
            remote="github"
            sync-c="true"
            sync-j="4" />

@@ -5,7 +5,7 @@
            fetch="https://android.googlesource.com"
            review="android-review.googlesource.com" />
 
-	<remote  name="sokp"
+  <remote  name="sokp"
            fetch="https://github.com/SOKP" />	   
 		   
   <remote  name="slim"
@@ -47,7 +47,6 @@
   <project path="packages/apps/Contacts" name="SOKP/packages_apps_Contacts" remote="sokp" revision="sokp-kk" />
   <project path="packages/apps/ContactsCommon" name="SOKP/packages_apps_ContactsCommon" remote="sokp" revision="sokp-kk" />
   <project path="packages/apps/Dialer" name="SOKP/packages_apps_Dialer" remote="sokp" revision="sokp-kk" />
-  <project path="packages/apps/DSPManager" name="SOKP/packages_apps_DSPManager" remote="sokp" revision="sokp-kk" />
   <project path="packages/apps/Email" name="SOKP/packages_apps_Email" remote="sokp" revision="sokp-kk" />
   <project path="packages/apps/PackageInstaller" name="SOKP/packages_apps_PackageInstaller" remote="sokp" revision="sokp-kk" />
   <project path="packages/apps/Gallery2" name="SOKP/packages_apps_Gallery2" remote="sokp" revision="sokp-kk" />

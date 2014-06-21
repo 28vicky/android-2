@@ -6,14 +6,14 @@
            review="android-review.googlesource.com" />
 
   <remote  name="sokp"
-           fetch="https://github.com/" />	   
+           fetch="https://github.com" />	   
 		   
   <remote  name="slim"
-           fetch="https://github.com/slimroms"
+           fetch="https://github.com"
            review="gerrit.slimroms.net" />
 
   <remote  name="omnirom"
-           fetch="https://github.com/omnirom"
+           fetch="https://github.com"
            review="gerrit.omnirom.org" />
 
   <remote  name="github"

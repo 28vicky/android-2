@@ -6,7 +6,7 @@
            review="android-review.googlesource.com" />
 
   <remote  name="sokp"
-           fetch="https://github.com/SOKP" />	   
+           fetch="https://github.com/" />	   
 		   
   <remote  name="slim"
            fetch="https://github.com/slimroms"

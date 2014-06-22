@@ -64,6 +64,7 @@
   <project path="system/media" name="SOKP/system_media" remote="sokp" revision="sokp-kk" />
   <project path="packages/apps/PerformanceControl" name="SOKP/packages_apps_PerformanceControl" remote="sokp" revision="sokp-kk" />
   <project path="packages/apps/ScreenRecorder" name="SOKP/android_packages_apps_ScreenRecorder" remote="sokp" revision="sokp-kk" />
+  <project path="packages/apps/OmniSwitch" name="SOKP/packages_apps_OmniSwitch" remote="sokp" revision="sokp-kk" />
   <project path="vendor/cm" name="SOKP/vendor_cm" remote="sokp" revision="sokp-kk" />
   <!-- SOKP repo ends -->
   
@@ -487,9 +488,6 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4.4_r1" />
   <project path="vendor/cyngn" name="cyngn/android_vendor_cyngn" />
   <!-- CM AND AOSP Repo Ends -->
-  
-  <!-- OmniRoms OmniSwitch -->
-  <project path="packages/apps/OmniSwitch" name="omnirom/android_packages_apps_OmniSwitch" remote="omnirom" revision="android-4.4" />
   
   <!-- SlimRoms Recents Panel -->
   <project path="frameworks/opt/cards" name="SlimRoms/frameworks_opt_cards" remote="slim" revision="kk4.4"/>

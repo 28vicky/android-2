@@ -28,7 +28,7 @@
            sync-c="true"
            sync-j="4" />
 
-  <project path="build" name="SOKP/build" remote="sokp" revision="sokp-kk" groups="pdk" >
+  <project path="build" name="SOKP/android_build" remote="sokp" revision="sokp-kk" groups="pdk" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <!-- SOKP Repo Starts -->

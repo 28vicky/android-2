@@ -6,7 +6,11 @@
            review="android-review.googlesource.com" />
 
   <remote  name="cm"
-           fetch="https://github.com" />	   
+           fetch="https://github.com"
+		   review="review.cyanogenmod.org" />	   
+		   
+  <remote  name="sokp"
+		   fetch=".." />
 		   
   <remote  name="slim"
            fetch="https://github.com"

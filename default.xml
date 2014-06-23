@@ -65,7 +65,9 @@
   <project path="packages/apps/PerformanceControl" name="SOKP/packages_apps_PerformanceControl" remote="sokp" revision="sokp-kk" />
   <project path="packages/apps/ScreenRecorder" name="SOKP/android_packages_apps_ScreenRecorder" remote="sokp" revision="sokp-kk" />
   <project path="packages/apps/OmniSwitch" name="SOKP/packages_apps_OmniSwitch" remote="sokp" revision="sokp-kk" />
-  <project path="vendor/cm" name="SOKP/vendor_cm" remote="sokp" revision="sokp-kk" />
+  <project path="packages/apps/GPSOptimizer" name="SOKP/android_packages_apps_GPSOptimizer" remote="sokp" revision="sokp-kk" />
+  <project path="packages/apps/SonicPapers" name="SOKP/android_packages_apps_SonicPapers" remote="sokp" revision="sokp-kk" />
+  <project path="vendor/sokp" name="SOKP/vendor_sokp" remote="sokp" revision="sokp-kk" />
   <!-- SOKP repo ends -->
   
   <!-- CM AND AOSP Repo Starts -->

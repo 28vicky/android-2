@@ -68,6 +68,7 @@
   <project path="packages/apps/GPSOptimizer" name="SOKP/android_packages_apps_GPSOptimizer" remote="sokp" revision="sokp-kk" />
   <project path="packages/apps/SonicPapers" name="SOKP/android_packages_apps_SonicPapers" remote="sokp" revision="sokp-kk" />
   <project path="vendor/sokp" name="SOKP/vendor_sokp" remote="sokp" revision="sokp-kk" />
+  <project path="system/core" name="SOKP/android_system_core" remote="sokp" revision="sokp-kk" />
   <!-- SOKP repo ends -->
   
   <!-- CM AND AOSP Repo Starts -->
@@ -472,7 +473,6 @@
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" remote="aosp" revision="refs/tags/android-4.4.4_r1" groups="pdk" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" remote="aosp" revision="refs/tags/android-4.4.4_r1" groups="pdk,tools" />
   <project path="sdk" name="CyanogenMod/android_sdk" />
-  <project path="system/core" name="CyanogenMod/android_system_core" groups="pdk" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" groups="pdk" />
   <project path="system/netd" name="CyanogenMod/android_system_netd" groups="pdk" />
   <project path="system/qcom" name="CyanogenMod/android_system_qcom" groups="qcom" />
